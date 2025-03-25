@@ -57,7 +57,7 @@ You'll deploy a Windows 10 VM in Microsoft Azure, install all necessary dependen
 
 3. Download and unzip the `osTicket-Installation-Files.zip` onto your Desktop.
 4. Confirm you now have a folder named `osTicket-Installation-Files`.
-
+https://github.com/TheZackNelson/osticket-prereqs/releases/tag/osTicketFiles
 ---
 
 ### 🌐 IIS + PHP Setup
