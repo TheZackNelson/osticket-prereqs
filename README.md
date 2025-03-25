@@ -11,7 +11,7 @@ You’ll learn how to set up a working osTicket environment on a Windows 10 Virt
 
 <h2>🎥 Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com) 
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com) (Comming soon)
 
 ---
 
@@ -47,7 +47,7 @@ You’ll learn how to set up a working osTicket environment on a Windows 10 Virt
 <h2>⚙️ Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/3wBvAGv.png" height="80%" width="80%" alt="Azure VM Creation"/>
+<img width="1001" alt="Screenshot 2025-03-25 at 2 43 42 PM" src="https://github.com/user-attachments/assets/dd4d37f0-d838-42a2-b322-593dfc58bd75" />
 </p>
 <p>
 <strong>Step 1:</strong> Create a new Virtual Machine in Microsoft Azure. Select Windows 10 Pro as the operating system, choose a resource group, and configure basic settings such as region, username, and password.
@@ -55,7 +55,8 @@ You’ll learn how to set up a working osTicket environment on a Windows 10 Virt
 <br />
 
 <p>
-<img src="https://i.imgur.com/AKCkH6E.png" height="80%" width="80%" alt="IIS Installation"/>
+<img width="410" alt="Screenshot 2025-03-25 at 2 47 13 PM" src="https://github.com/user-attachments/assets/41a73a5e-0b6c-41ba-a4dd-d9962681e6ce" />
+
 </p>
 <p>
 <strong>Step 2:</strong> Once the VM is running, connect to it using Remote Desktop. Open the Control Panel and enable Internet Information Services (IIS) with CGI and other required features for PHP support.
